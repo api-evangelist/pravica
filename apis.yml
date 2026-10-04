@@ -42,7 +42,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Payments
 - Programmable Money
@@ -58,6 +58,7 @@ tags_raw:
 - Infrastructure
 - Remittances
 - Settlement
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
